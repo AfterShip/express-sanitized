@@ -3,7 +3,7 @@
 ## Installation
 
 ```
-npm install express-sanitized
+npm install @aftership/express-sanitized
 ```
 
 ## Usage
