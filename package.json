@@ -1,7 +1,7 @@
 {
   "name": "@aftership/express-sanitized",
   "description": "Express middleware for the sanitizer module using Caja's HTML Sanitizer. Identical as 0.5.1",
-  "version": "0.5.1",
+  "version": "0.5.2",
   "author": "Patrick Hogan <patrick@callinize.com>",
   "homepage": "https://github.com/aftership/express-sanitized",
   "bugs": {
