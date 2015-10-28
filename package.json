@@ -20,7 +20,7 @@
   },
   "dependencies": {
     "sanitizer": "0.1.2",
-    "underscore": "1.7.0"
+    "underscore": "^1.7.0"
   },
   "keywords": [
     "express",
